@@ -1893,7 +1893,6 @@ namespace SM64DSe
                     return new ParameterField[] {
                         new ListField("Parameter 1",8,4,new object[]{
                             1,"1 - Silver-Star",
-                            2,"2 - Cap",
                             15,"F - Nothing"
                         }){ Name = "Spawns:" },
                         new ListField("Parameter 1",4,4,new object[]{
